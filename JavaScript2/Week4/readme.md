@@ -20,7 +20,6 @@ Event listeners
 ## Relevant links
 * [Preparation](preparation.md)
 * [Homework](homework.md)
-* [Review](review.md)
 
 
 ## HTML interaction
